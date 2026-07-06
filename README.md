@@ -1,4 +1,10 @@
-## Hi there 👋
+
+Hi there 👋🏼
+My name is Douglas Pinheiro, from Brazil (🇧🇷). I study Full Stack and mobile development. I always look for opportunities to learn and work with these technologies. I am passionate about projects like Linux, so I always install a new distro! My goal is to work with Full Stack and Mobile Development and support my wife and daughter doing what I love about technology.💙
+
+Feel free to get in touch! 🚀
+
+
 
 <!--
 **stonelead/stonelead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
